@@ -1,0 +1,6 @@
+language:C
+sudo:false
+compiler:gcc
+script:
+      -gcc -0 file swap.c
+      -./file
