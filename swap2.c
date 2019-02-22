@@ -5,12 +5,10 @@ int main()
 { 
 
   int x, y,t; 
-  int a,b,b;
-  
 
   printf("Enter two integers\n"); 
 
-  scanf("%d%d", &x, &y, &z); 
+  scanf("%d%d", &x, &y); 
 
   
 
